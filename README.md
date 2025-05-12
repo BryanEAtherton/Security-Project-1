@@ -26,13 +26,12 @@ Here we will set up 2 Azure Virtual Machines,1 Windows & 1 Linux, to use in our 
 <h2>Initial Setup</h2>
 
 <p>
-<img src="https://i.imgur.com/IrN0Vfk.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/OYHF6ua.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QSn0enR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 1.  In Azure Create 2 VMs - 1 Windows & 1 Linux. 
   
-2. Select Create and choose Azure virtual machine
+[Click here to view instructions on how to create and access an Azure VM using Remote Desktop](https://github.com/BryanEAtherton/Azure-Virtual-Machine)
 </p>
 <br />
 
