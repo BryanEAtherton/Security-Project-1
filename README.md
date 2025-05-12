@@ -1,14 +1,11 @@
 # Security-Project-1
 
-
-
 <p align="center">
 <img src="https://i.imgur.com/NNk2ICv.jpg"/>
 </p>
 
 <h1>Azure Virtual Machine Setup</h1>
 Here we will set up 2 Azure Virtual Machines,1 Windows & 1 Linux, to use in our Security Project .<br />
-
 
 <h2>Environments and Technologies Used</h2>
 
@@ -33,16 +30,21 @@ Here we will set up 2 Azure Virtual Machines,1 Windows & 1 Linux, to use in our 
   
 [Click here to view instructions on how to create and access an Azure VM using Remote Desktop](https://github.com/BryanEAtherton/Azure-Virtual-Machine)
 </p>
-<br />
+
+ <p>
+2. Navigate to the Linux VM NSG and disable the Firewall by deleting the SSH inbound rule. 
+ <p>
+<img src="https://i.imgur.com/CCWUnuQ.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/E7EQyPj.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
+ </p>
 
 <p>
-<img src="https://i.imgur.com/0gljUaN.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/ZGEmF8A.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-</p>
+ 3. Create a new rule to allow all traffic into the VM.
 <p>
-3. Create and name a new Resource Group
-  
-4. Name the Virtual Machine
+<img src="https://i.imgur.com/3NPTV98.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8iTnSg6.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
+ <p>
+4. 
 </p>
 <br />
 
