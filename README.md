@@ -5,7 +5,7 @@
 </p>
 
 <h1>Azure Virtual Machine Setup</h1>
-Here we will set up 2 Azure Virtual Machines, 1 Windows & 1 Linux, to use in our Security Project. We will disable the firewall protections at the Azure level to open the machines up to the internet and use them as our honeypots. <br />
+Here we will set up 2 Azure Virtual Machines, 1 Windows & 1 Linux, to use in our Security Project as our honeypots. We will disable the firewall protections at the Azure level to open the machines up to the internet. We will also disable the Windows firewall, install SQL Server, and create vulnerabilities from within the Windows VM. <br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -58,6 +58,8 @@ Here we will set up 2 Azure Virtual Machines, 1 Windows & 1 Linux, to use in our
 5. Repeat step 3 for the Windows VM and create a new rule to allow all traffic into the VM.
 <p>
 <img src="https://i.imgur.com/EoHjiaZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
   
 
 
