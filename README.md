@@ -44,12 +44,12 @@ Here we will set up 2 Azure Virtual Machines,1 Windows & 1 Linux, to use in our 
 <img src="https://i.imgur.com/3NPTV98.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/8iTnSg6.png" height="50%" width="40%" alt="Disk Sanitization Steps"/>
  <p>
-4. 
+4. Repeat the same process for the Windows VM by deleting the RDP inbound rule.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/wvBSxBf.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vYFfEl4.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/TEEgHIo.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
