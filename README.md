@@ -25,7 +25,7 @@ Security Project
 - [Create Azure VM Honeypots](https://github.com/BryanEAtherton/Azure-VM-Honeypot-setup/tree/main)
   - [Install SQL Server](https://github.com/BryanEAtherton/Install-SQL-Server/tree/main)
   - [Install SSMS](https://github.com/BryanEAtherton/Install-SSMS)
-- [Generate and observe logs from SSMS in Event Viewer]()
+- [Generate and observe logs from SSMS in Windows Event Viewer]()
 - [Next Step]() 
 - [Next Step]()
 - [Next Step]()
