@@ -1,4 +1,4 @@
-# Security-Project-1
+# Security Project 1
 
 <p align="center">
 <img src="https://i.imgur.com/NNk2ICv.jpg"/>
