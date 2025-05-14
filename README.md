@@ -25,7 +25,7 @@ Security Project
 - [Create Azure VM Honeypots](https://github.com/BryanEAtherton/Azure-VM-Honeypot-setup/tree/main)
   - [Disable Windows Firewall and install SQL Server](https://github.com/BryanEAtherton/Disable-Windows-Firewall-and-install-SQL-Server)
   - [Install SSMS](https://github.com/BryanEAtherton/Install-SSMS)
-- [Next Step]()
+- [Generate and observe logs from SSMS in Event Viewer]()
 - [Next Step]() 
 - [Next Step]()
 - [Next Step]()
