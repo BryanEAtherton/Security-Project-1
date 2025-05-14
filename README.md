@@ -23,16 +23,14 @@ Security Project
 <h2>Security Project Objectives</h2>
 
 - [Create Azure VM Honeypots](https://github.com/BryanEAtherton/Azure-VM-Honeypot-setup/tree/main)
-- [Disable Windows Firewall and install SQL Server](https://github.com/BryanEAtherton/Disable-Windows-Firewall-and-install-SQL-Server)
-- [Next Step]()
+  - [Disable Windows Firewall and install SQL Server](https://github.com/BryanEAtherton/Disable-Windows-Firewall-and-install-SQL-Server)
+  - [Install SSMS](https://github.com/BryanEAtherton/Install-SSMS)
 - [Next Step]()
 - [Next Step]() 
 - [Next Step]()
 - [Next Step]()
 - [Next Step]()
-<h2>
 
-</p>
 <br />
 
 
