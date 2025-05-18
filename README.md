@@ -27,7 +27,7 @@ Security Project
   - [Install SSMS](https://github.com/BryanEAtherton/Install-SSMS)
 - [Generate and observe logs from SSMS in Windows Event Viewer](https://github.com/BryanEAtherton/Create-and-View-Events-in-Windows-Event-Viewer)
 - [Ping and Log into Linux VM](https://github.com/BryanEAtherton/Ping-Linux-VM) 
-- [Next Step]()
+- [Create Attack VM and Attack!]()
 - [Next Step]()
 - [Next Step]()
 
