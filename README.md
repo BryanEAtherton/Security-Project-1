@@ -13,6 +13,7 @@ Security Project
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
+- Microsoft Powershell
 
 
 <h2>Operating Systems Used </h2>
