@@ -7,7 +7,7 @@
 
 
 <h1>Security Project 1</h1>
-Security Project
+Azure Honeynet Setup
 
 <h2>Environments and Technologies Used</h2>
 
