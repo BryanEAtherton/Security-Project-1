@@ -23,7 +23,7 @@ Security Project
 
 <h2>Security Project Objectives</h2>
 
-- [Create Azure Honeypot VMs](https://github.com/BryanEAtherton/Azure-VM-Honeypot-setup/tree/main)
+- [Create Azure Honeynet VMs](https://github.com/BryanEAtherton/Azure-VM-Honeypot-setup/tree/main)
   - [Install SQL Server](https://github.com/BryanEAtherton/Install-SQL-Server/tree/main)
   - [Install SSMS](https://github.com/BryanEAtherton/Install-SSMS)
 - [Generate and observe logs from SSMS in Windows Event Viewer](https://github.com/BryanEAtherton/Create-and-View-Events-in-Windows-Event-Viewer)
