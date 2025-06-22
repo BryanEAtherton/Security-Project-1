@@ -1,4 +1,4 @@
-# Security Project 1
+# Honeynet and SOC in Azure
 
 <p align="center">
 <img src="https://i.imgur.com/NNk2ICv.jpg"/>
@@ -6,8 +6,8 @@
 
 
 
-<h1>Security Project 1</h1>
-Azure Honeynet Setup
+<h1>Azure Honeynet Setup</h1>
+
 
 <h2>Environments and Technologies Used</h2>
 
@@ -21,7 +21,7 @@ Azure Honeynet Setup
 - Windows 10</b> (21H2)
 - Linux (Ubuntu)
 
-<h2>Security Project Objectives</h2>
+<h2>Azure Honeynet Setup Objectives</h2>
 
 - [Create Azure Honeynet VMs](https://github.com/BryanEAtherton/Azure-VM-Honeypot-setup/tree/main)
   - [Install SQL Server](https://github.com/BryanEAtherton/Install-SQL-Server/tree/main)
