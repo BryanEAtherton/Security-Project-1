@@ -26,9 +26,7 @@
 - [Create Azure Honeynet VMs](https://github.com/BryanEAtherton/Azure-VM-Honeypot-setup/tree/main)
   - [Install SQL Server](https://github.com/BryanEAtherton/Install-SQL-Server/tree/main)
   - [Install SSMS](https://github.com/BryanEAtherton/Install-SSMS)
-- [Create Attack VM and Attack!]()
-- [Next Step]()
-- [Next Step]()
+
 
 <br />
 
